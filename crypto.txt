@@ -1,0 +1,35 @@
+Mozilla is seeking a Staff Cryptography Engineer to support the NSS security library that protects half a billion users around the globe. Our team is looking for a driven engineer who is able to lead the development of NSS, mentor junior engineers, and work in the open alongside a community of contributors. If you believe in the Mozilla mission, and can shoulder these responsibilities, we want to hear from you.
+
+Responsibilities and Motivation
+Maintain and improve the NSS Network Security Service that powers Firefox (et. al.).
+Stay informed and ahead of threats affecting our cryptography.
+Lend your expertise to other parts of Mozilla in addressing security issues.
+Involve our community in decision-making.
+Be at the forefront of cryptographic applications.
+Communicate the decisions, and the decision-making process, around changes to our cryptography stack.
+You will collaborate with researchers and engineers in working in cryptography and network security.
+There are a variety of paths to being successful in this position. Some specific points are below, but we're open to alternate approaches to achieving the position's goals as well.
+
+Your Profile
+You have advanced knowledge in the area of cryptography, such as having built features or implemented algorithms for a cryptographic library.
+You have experience with security-critical programming.
+Your C / C++ language skills are well respected.
+You believe that code doesn't exist unless it is tested, and that tests don't exist unless they are automated.
+You are meticulous in your own software patches, and in reviewing patches from others.
+Most of the time when you use scripting languages, they make your life easier rather than harder.
+You don't mind defending decisions in public.
+You find happiness in carefully deleting code as well as writing it.
+You are familiar with, and passionate about improving, the Web PKI.
+Mozilla is a global organization, and this role is available in our offices in the European Union, U.S., Canada, or home-based in the U.S., Canada, and European countries where Mozilla has a legal entity. You must have work authorization in one of these countries. We support flexible work hours, paid professional development, and have a wellness program that includes childcare assistance.
+
+Next Steps
+If our team sounds like a good fit for you please send us your resume with a cover letter. Tell us about why you're interested in Mozilla and this position. If you contribute to any open source software, or maintain a blog, Twitter, or similar online presence we'd love to hear about it.
+
+About Mozilla
+Mozilla exists to build the Internet as a public resource accessible to all because we believe that open and free is better than closed and controlled. When you work at Mozilla, you give yourself a chance to make a difference in the lives of Web users everywhere. And you give us a chance to make a difference in your life every single day. Join us to work on the Web as the platform and help create more opportunity and innovation for everyone online.
+
+We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Level: P4
+
+#LI-RC1
